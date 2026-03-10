@@ -1,0 +1,8 @@
+[package]
+name = "timezone-clock"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.31"
+chrono = "0.4"
